@@ -23,7 +23,7 @@ What's your pet's name? Doggies
 <br />
 
 ## Example Output
-```python
+```
 Your band name could be: Jeju Doggies
 ```
 
