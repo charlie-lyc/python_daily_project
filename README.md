@@ -1,1 +1,1 @@
-# Daily Project
+# Python Daily Project
