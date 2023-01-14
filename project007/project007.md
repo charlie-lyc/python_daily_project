@@ -23,7 +23,7 @@ Import the logo of the game from the ```hangman_art``` module.
 Select a word randomly from the word list of ```hangman_words``` module.
 
 ## Step 2
-Create blanks with under score(```_```) as the same length of the random word selected from the word list.
+Create blanks with under score(```'_'```) as the same length of the random word selected from the word list.
 
 If the random word is ```'python'```, the word displayed on screen is:
 ```
