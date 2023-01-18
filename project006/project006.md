@@ -1,8 +1,8 @@
-# [Reeborg's World]('https://reeborg.ca/index_en.html')(Understanding Functions)
+# [Reeborg's World](https://reeborg.ca/index_en.html)(Understanding Functions)
 
 <hr />
 
-## 1. [Home 1 ~ 4]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json')
+## 1. [Home 1 ~ 4](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Home%201&url=worlds%2Ftutorial_en%2Fhome1.json)
 
 ### I want to go home!
 Write a program that makes Reeborg go home.
@@ -22,7 +22,7 @@ If you know how to define functions, you should attempt to write a similar progr
 
 <br />
 
-## 2. [Around 1 ~ 4]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Around%201&url=worlds%2Ftutorial_en%2Faround1.json')
+## 2. [Around 1 ~ 4](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Around%201&url=worlds%2Ftutorial_en%2Faround1.json)
 
 ### Around the world
 Have Reeborg go around the world in the counter-clockwise direction once, and stop at its starting position. 
@@ -49,7 +49,7 @@ Ideally, you should define your own functions to make your program easier to und
 
 <br />
 
-## 3. [Center 1 ~ 2]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Around%201&url=worlds%2Ftutorial_en%2Faround1.json')
+## 3. [Center 1 ~ 2](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Center%201&url=worlds%2Ftutorial_en%2Fcenter1.json)
 
 ### Find the center
 Help Reeborg to find the center of the world.
@@ -76,7 +76,7 @@ You should put down the one object at the center.
 
 <br />
 
-## 4. [Harvest 1 ~ 3]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Harvest%201&url=worlds%2Ftutorial_en%2Fharvest1.json')
+## 4. [Harvest 1 ~ 3](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Harvest%201&url=worlds%2Ftutorial_en%2Fharvest1.json)
 
 ### Harvest time
 Reeborg's garden is ready to harvest. Have Reeborg collect all the carrots in his garden.
@@ -106,7 +106,7 @@ You might find it convenient to define a function and call this function 6 times
 
 <br />
 
-## 5. [Hurdle 1 ~ 4]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json')
+## 5. [Hurdle 1 ~ 4](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json)
 
 ### Hurdles race
 Reeborg has entered a hurdles race.
@@ -129,7 +129,7 @@ If you know how to define functions, define a function and use it to simplify yo
 
 <br />
 
-## 6. [Maze]('https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json')
+## 6. [Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 ### Lost in a maze
 Reeborg was exploring a dark maze and the battery in its flashlight ran out.

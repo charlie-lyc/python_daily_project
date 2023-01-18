@@ -1,8 +1,8 @@
-# [Hangman Game]('https://en.wikipedia.org/wiki/Hangman_(game)')
+# [Hangman Game](https://en.wikipedia.org/wiki/Hangman_(game))
 
 <hr />
 
-## [Play Game]('https://hangmanwordgame.com')
+## [Play Game](https://hangmanwordgame.com)
 - https://hangmanwordgame.com
 
 

@@ -32,4 +32,4 @@ Your band name could be: Jeju Doggies
 ## Hint
 You might have to do some Googling.
 
-*[How to allow user input in Python?]('https://docs.python.org/3/library/functions.html#input')*
+*[How to allow user input in Python?](https://docs.python.org/3/library/functions.html#input)*

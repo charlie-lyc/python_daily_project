@@ -136,6 +136,6 @@ You typed an invalid number!
 ## Hint
 You might have to do some Googling.
 
-*[How to select a random integer in Python?]('https://docs.python.org/3/library/random.html#random.randint')*
+*[How to select a random integer in Python?](https://docs.python.org/3/library/random.html#random.randint)*
 
-*[How to write conditional statements in Python?]('https://www.w3schools.com/python/python_conditions.asp')*
+*[How to write conditional statements in Python?](https://www.w3schools.com/python/python_conditions.asp)*

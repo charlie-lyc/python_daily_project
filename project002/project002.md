@@ -36,4 +36,4 @@ Each person should pay $19.93.
 ## Hint
 You might have to do some Googling.
 
-*[How to round a number to 2 decimal places in Python?]('https://docs.python.org/3/library/functions.html#round')*
+*[How to round a number to 2 decimal places in Python?](https://docs.python.org/3/library/functions.html#round)*
