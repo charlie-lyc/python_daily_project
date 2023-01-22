@@ -55,8 +55,7 @@ From there you will need to figure out:
 
 ## Example Input
 ```
-What do you choose? 
-Type 0 for Rock, 1 for Paper or 2 for Scissors.
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
 0
 ```
 
@@ -64,71 +63,69 @@ Type 0 for Rock, 1 for Paper or 2 for Scissors.
 
 ## Example Output
 ```
-Your choice :
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-Computer's choice :
+Computer chose:
     _______
 ---'   ____)____
           ______)
        __________)
       (____)
 ---.__(___)
-Result: You win!
+You win!
 ```
+
 ```
-Your choice :
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-Computer's choice :
+Computer's chose:
     _______
 ---'   ____)____
           ______)
           _______)
          _______)
 ---.__________)
-Result: You lose.
+You lose.
 ```
+
 ```
-Your choice :
+Computer's chose:
     _______
 ---'   ____)
       (_____)
       (_____)
       (____)
 ---.__(___)
-Computer's choice :
-    _______
----'   ____)
-      (_____)
-      (_____)
-      (____)
----.__(___)
-Result: It's a draw.
+It's a draw.
 ```
 
 <br />
 
 ## Handling index out of range
 ```
-What do you choose? 
-Type 0 for Rock, 1 for Paper or 2 for Scissors.
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
 -1
-You typed an invalid number!
 ```
 ```
-What do you choose? 
-Type 0 for Rock, 1 for Paper or 2 for Scissors.
+Computer's chose:
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+You typed an invalid number, you lose!
+```
+
+```
+What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
 3
-You typed an invalid number!
+```
+```
+Computer's chose:
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+You typed an invalid number, you lose!
 ```
 
 <br />

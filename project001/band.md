@@ -16,15 +16,17 @@
 ## Example Input
 ```
 Welcome to the Band Name Generator.
-What's the name of the city you grew up in? Jeju
-What's your pet's name? Doggies
+What's the name of the city you grew up in?
+Jeju
+What's your pet's name?
+Doggies
 ```
 
 <br />
 
 ## Example Output
 ```
-Your band name could be: Jeju Doggies
+Your band name could be Jeju Doggies
 ```
 
 <br />

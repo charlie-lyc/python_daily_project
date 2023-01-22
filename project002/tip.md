@@ -16,19 +16,16 @@ Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 ## Example Input
 ```
 Welcome to the tip calculator!
-What was the total bill($)?
-124.56
-How much tip would you like to give(%)?
-12
-How many people to split the bill?
-7
+What was the total bill? $124.56
+How much tip would you like to give? 10, 12, or 15? 12
+How many people to split the bill? 7
 ```
 
 <br />
 
 ## Example Output
 ```
-Each person should pay $19.93.
+Each person should pay: $19.93
 ```
 
 <br />
